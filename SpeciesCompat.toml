@@ -1,7 +1,7 @@
 id = "RAYTRAC3RSpeciesCompat"
 name = "SpeciesCompat"
 description = "Lure-based mod that adds compatibility between various modded species and modded patterns."
-version = "0.1.0"
+version = "0.1.1"
 homepage = "https://github.com/RAYTRAC3R/SpeciesCompat"
 author = "RAYTRAC3R"
 

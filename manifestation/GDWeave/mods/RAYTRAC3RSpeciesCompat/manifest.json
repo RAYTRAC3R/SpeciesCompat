@@ -1,0 +1,15 @@
+{
+  "Id": "RAYTRAC3RSpeciesCompat",
+  "AssemblyPath": null,
+  "PackPath": "RAYTRAC3RSpeciesCompat.pck",
+  "Dependencies": [
+    "Sulayre.Lure"
+  ],
+  "Metadata": {
+    "Name": "SpeciesCompat",
+    "Author": "RAYTRAC3R",
+    "Version": "0.1.1",
+    "Description": "Lure-based mod that adds compatibility between various modded species and modded patterns.",
+    "Homepage": "https://github.com/RAYTRAC3R/SpeciesCompat"
+  }
+}

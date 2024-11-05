@@ -2,15 +2,15 @@
 
 importer="texture"
 type="StreamTexture"
-path="res://.import/clown.png-46fc2f0ee9cd458f64f5ec8754e1c54f.stex"
+path="res://.import/clown.png-ddfedad648d63e53d436d592515a0f88.stex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://mods/SpeciesCompat/Assets/Patterns/borzoi/clown.png"
-dest_files=[ "res://.import/clown.png-46fc2f0ee9cd458f64f5ec8754e1c54f.stex" ]
+source_file="res://mods/RAYTRAC3RSpeciesCompat/Assets/Patterns/borzoi/clown.png"
+dest_files=[ "res://.import/clown.png-ddfedad648d63e53d436d592515a0f88.stex" ]
 
 [params]
 
